@@ -1,10 +1,10 @@
-# 🚀 Linux Administration Labs
+# 🚀 Linux Administration Labs (1 to 16)
 
-![GitHub Repo](https://img.shields.io/github/repo-size/kascit/G18_LA)
-![Contributors](https://img.shields.io/github/contributors/kascit/G18_LA)
-![Forks](https://img.shields.io/github/forks/kascit/G18_LA?style=social)
-![Stars](https://img.shields.io/github/stars/kascit/G18_LA?style=social)
-![Issues](https://img.shields.io/github/issues/kascit/G18_LA)
+![GitHub Repo](https://img.shields.io/github/repo-size/DivyumKinger/Linux-Lab-1737)
+![Contributors](https://img.shields.io/github/contributors/DivyumKinger/Linux-Lab-1737)
+![Forks](https://img.shields.io/github/forks/DivyumKinger/Linux-Lab-1737?style=social)
+![Stars](https://img.shields.io/github/stars/DivyumKinger/Linux-Lab-1737?style=social)
+![Issues](https://img.shields.io/github/issues/DivyumKinger/Linux-Lab-1737)
 
 
 ## 📚 **Labs Overview**
