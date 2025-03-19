@@ -51,4 +51,4 @@ sudo userdel operator3
 ```
 
 ## 🖼️ **Screenshot**  
-![Lab 6 Screenshot](lab6.png)
+![Lab 6 Screenshot](lab6_1.png)
