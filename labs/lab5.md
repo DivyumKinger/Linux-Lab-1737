@@ -25,15 +25,15 @@ kill -9 <PID>               # Force kill a process
 ### 3️⃣ **Manage Software Using `dnf`**  
 #### 🔹 Install a package:  
 ```bash
-sudo dnf install package_name
+sudo apt install package_name
 ```
 #### 🔹 Update package lists:  
 ```bash
-sudo dnf check-update
+sudo apt update
 ```
 #### 🔹 Remove a package:  
 ```bash
-sudo dnf remove package_name
+sudo apt remove package_name
 ```
 
 ## 🖼️ **Screenshots**  
