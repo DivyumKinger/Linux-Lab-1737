@@ -18,3 +18,12 @@
 | 6 | User management (`usermod`, `passwd`) | [Lab 6](labs/lab6.md) |
 | 7 | File ownership with `chown`, `chmod` | [Lab 7](labs/lab7.md) |
 | 8 | Shell scripting & redirection operators | [Lab 8](labs/lab8.md) |
+| 9 | Shell scripting & redirection operators | [Lab 9](labs/lab9.md) |
+| 10 | Shell scripting & redirection operators | [Lab 10](labs/lab10.md) |
+| 11 | Shell scripting & redirection operators | [Lab 11](labs/lab11.md) |
+| 12 | Shell scripting & redirection operators | [Lab 12](labs/lab12.md) |
+| 13 | Shell scripting & redirection operators | [Lab 13](labs/lab13.md) |
+| 14 | Shell scripting & redirection operators | [Lab 14](labs/lab14.md) |
+| 15 | Shell scripting & redirection operators | [Lab 15](labs/lab15.md) |
+| 16 | Shell scripting & redirection operators | [Lab 18](labs/lab16.md) |
+
